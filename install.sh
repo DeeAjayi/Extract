@@ -1,1 +1,1 @@
-cp extract.sh /usr/bin/extract.sh
+cp extract.sh /usr/bin/extract
