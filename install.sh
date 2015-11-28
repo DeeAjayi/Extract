@@ -1,1 +1,1 @@
-cp extract.sh /usr/bin/extract
+cp xcomp.sh /usr/bin/xcomp
